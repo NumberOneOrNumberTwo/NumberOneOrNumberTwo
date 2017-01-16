@@ -1,9 +1,40 @@
-Restroom model brain storm
+# Overview
+The goal of this project is to delivery a set of apis with cors all documented with swagger.io and an UI for users to find, insert, review, rate and propose changes to restrooms all around the world.
 
+	
+# Backend
+
+### Database
+To be defined. 
+- MySQL (most likely)
+- Mongose 
+
+### REST APIs
+
+- Languages
+To be defined. 
+	- Node (most likely)
+	- Java
+	- Python
+	- Ruby 
+	- PHP
+	
+- Localization 
+	- English
+	- Portugues	
+	
+- Endpoints
+To be defined
+	- /restroom
+	- /banheiro
+	
+- Models
+To be defined. 
+	- Restroom
 ```
 {
 	'locationName' : 'McDonalds',
-  'hashTag' : 'salvaVida',
+	'hashTag' : 'salvaVida',
 	'address' : '111 address St',
 	'city' : 'San Francisco',
 	'country' : 'USA'
@@ -18,8 +49,8 @@ Restroom model brain storm
 		[1000, 2200],
 		[1000, 2200],
 	],
-  'isPublic' : true,
-  'isCustomerOnly' : false,
+	'isPublic' : true,
+	'isCustomerOnly' : false,
 	'isHadicapAccessible' : boolean,
 	'hasBabyChangingTable' : boolean,
 	'createdBy' : user,
@@ -30,3 +61,11 @@ Restroom model brain storm
 	'reviews' : [rev1, rev2],	
 }
 ```
+
+
+# Frontend
+
+- Framework
+	- Angular
+	- Backbone
+	- React
