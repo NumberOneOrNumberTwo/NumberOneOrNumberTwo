@@ -7,7 +7,7 @@ The goal of this project is to delivery a set of apis with cors all documented w
 ### Database
 
 - MySQL (most likely)
-- Mongose 
+- Mongo
 
 ### REST APIs
 
