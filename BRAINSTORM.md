@@ -5,14 +5,15 @@ The goal of this project is to delivery a set of apis with cors all documented w
 # Backend
 
 ### Database
+
 To be defined. 
+
 - MySQL (most likely)
 - Mongose 
 
 ### REST APIs
 
 - Languages
-To be defined. 
 	- Node (most likely)
 	- Java
 	- Python
@@ -24,12 +25,10 @@ To be defined.
 	- Portugues	
 	
 - Endpoints
-To be defined
 	- /restroom
 	- /banheiro
 	
 - Models
-To be defined. 
 	- Restroom
 ```
 {
