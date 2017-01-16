@@ -20,7 +20,7 @@ This is an open source project.
 			- Where to get it?
 		- Password
 			- What is it?
-	- Raitings
+	- Ratings
 		- Clean
 
 - APIs
