@@ -6,8 +6,6 @@ The goal of this project is to delivery a set of apis with cors all documented w
 
 ### Database
 
-To be defined. 
-
 - MySQL (most likely)
 - Mongose 
 
